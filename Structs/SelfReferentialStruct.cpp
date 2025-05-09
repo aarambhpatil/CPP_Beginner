@@ -10,7 +10,6 @@ struct GfG {
 
 int main() {
     GfG gfg = {224};
-    
     cout << &gfg.next << endl;
     
     return 0;
